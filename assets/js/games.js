@@ -1,6 +1,6 @@
 
 /* =========================
-   SOURCES
+   GN-MATH
 ========================= */
 
 const GN_SOURCE =
@@ -12,6 +12,9 @@ const GN_HTML =
 const GN_COVER =
 "https://cdn.statically.io/gh/freebuisness/covers@main/";
 
+/* =================================================
+SEA BEAN
+============================================= */
 const SEA_SOURCE =
 "https://cdn.jsdelivr.net/gh/sea-bean-unblocked/sde@main/zzz.json";
 
@@ -20,15 +23,24 @@ const SEA_HTML =
 
 const SEA_COVER =
 "https://cdn.jsdelivr.net/gh/sea-bean-unblocked/Singlemile@main/Icon/";
+/* =========================
+   UGS
+========================= */
 
-const UGS_SOURCE =
+const UGS_BASE =
 "https://gcore.jsdelivr.net/gh/tharun9772/ugs-2/";
-
-const UGS_HTML =
-"https://gcore.jsdelivr.net/gh/tharun9772/ugs-2/";
-
 const UGS_COVER =
 "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png";
+
+/* =========================
+   SFOOLS
+========================= */
+
+const SFOOLS_BASE =
+"https://gcore.jsdelivr.net/gh/picklechiplover23/htmlgames@master/games2/";
+
+const SFOOLS_JSON =
+"https://gcore.jsdelivr.net/gh/picklechiplover23/htmlgames@master/games.json";
 
 /* =========================
    STATE
@@ -54,10 +66,9 @@ function hideStatus(){
 }
 
 /* =========================
-   HELPERS
+   GN
 ========================= */
 
-/* GN */
 function resolveGN(g){
   return {
     name: g.name,
@@ -70,7 +81,10 @@ function resolveGN(g){
   };
 }
 
-/* SEA */
+/* =========================
+   SEA
+========================= */
+
 function resolveSEA(g){
   return {
     name: g.name,
@@ -82,24 +96,51 @@ function resolveSEA(g){
   };
 }
 
-/* UGS - directory based */
+/* =========================
+   UGS (NO CL STRIPPING)
+========================= */
+
 function resolveUGS(h){
 
-  let file = h.split("/").pop() || h;
-
-  file = file.replace(".html", "");
-  file = file.replace(/^cl/i, "");
+  const file = (h.split("/").pop() || h);
 
   return {
-    name: file,
+    name: file.replace(".html",""),
     desc: "",
     cover: UGS_COVER,
-    url: UGS_HTML + file + ".html"
+    url: UGS_BASE + file
   };
 }
 
 /* =========================
-   LOAD SOURCES
+   SFOOLS
+========================= */
+
+let sfoolsCache = [];
+
+async function loadSFools(){
+
+  const res = await fetch(SFOOLS_JSON);
+  const data = await res.json();
+
+  sfoolsCache = [];
+
+  for(const group of Object.values(data)){
+    for(const g of group){
+
+      sfoolsCache.push({
+        name: g.name,
+        desc: "",
+        cover: g.cover || "",
+        url: SFOOLS_BASE + g.id + ".html"
+      });
+
+    }
+  }
+}
+
+/* =========================
+   LOAD MAIN SWITCH
 ========================= */
 
 async function load(){
@@ -126,7 +167,7 @@ async function load(){
 
   else if(currentSource === "ugs"){
 
-    const res = await fetch(UGS_SOURCE);
+    const res = await fetch(UGS_BASE);
     const html = await res.text();
 
     const doc = new DOMParser()
@@ -139,6 +180,13 @@ async function load(){
     data = links.map(resolveUGS);
   }
 
+  else if(currentSource === "sfools"){
+
+    await loadSFools();
+    data = sfoolsCache;
+
+  }
+
   games = data;
 
   render();
@@ -147,13 +195,12 @@ async function load(){
 }
 
 /* =========================
-   PRELOAD CACHE
+   PRELOAD BLOBS
 ========================= */
 
 async function preload(){
 
   launchCache.clear();
-
   showStatus("Preloading...");
 
   for(const g of games){
@@ -225,12 +272,11 @@ function render(){
 
     card.innerHTML = `
       <img src="${g.cover}"
-           loading="lazy"
-           onerror="this.src='https://cdn.jsdelivr.net/gh/linuxfandudeguy/greengrapecentral@main/assets/images/dummy_600x400_000000_6ddb9d_no-cover-sorry.png'">
+           loading="lazy">
 
       <div class="game-body">
         <div class="game-title">${g.name}</div>
-        <div class="game-desc">${g.desc}</div>
+        <div class="game-desc">${g.desc || ""}</div>
       </div>
     `;
 
