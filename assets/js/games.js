@@ -185,7 +185,7 @@ function render(){
     card.innerHTML = `
       <img src="${g.cover}"
            loading="lazy"
-           onerror="this.src='https://via.placeholder.com/300x140?text=No+Cover'">
+           onerror="this.src='https://cdn.jsdelivr.net/gh/linuxfandudeguy/greengrapecentral@main/assets/images/dummy_600x400_000000_6ddb9d_no-cover-sorry.png'">
 
       <div class="game-body">
         <div class="game-title">${g.name}</div>
