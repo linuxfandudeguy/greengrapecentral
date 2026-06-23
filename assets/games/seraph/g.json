@@ -1,0 +1,3008 @@
+[
+  {
+    "name": "slope",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/slope.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/slope/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "subway surfers",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/subwaysurfers.jpeg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/subwaysurfers/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "flappy bird",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/flappybird.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/flappy/index.html",
+    "genre": "mobile"
+  },
+  {
+    "name": "papa's pizzaria",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papaspizzeria.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papaspizzaria/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "papa's burgeria",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papasburgeria.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papasburgeria/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "super mario 64",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/sm64.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/sm64/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "run 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/run3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/run3/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "bitlife",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/bitlife.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/bitlife/index.html",
+    "genre": "simulator"
+  },
+  {
+    "name": "crossy road",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/crossyroad.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/crossy/index.html",
+    "genre": "mobile"
+  },
+  {
+    "name": "minecraft [v1.5.2]",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mc.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/mc/index.html",
+    "genre": "minecraft"
+  },
+  {
+    "name": "cookie clicker",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/cookieclick.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/cookieclicker/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "temple run 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/templerun2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/templerun2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "duck life 4",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/ducklife4.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/ducklife4/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "chrome dino game",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/chromedino.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/dinogame/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "jetpack joyride",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/jetpackjoyride.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/jetpackjoyride/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "retro bowl",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/retrobowl.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/retrobowl/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "fruit ninja",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/fruitninja.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/fruitninja/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "doodle jump",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/doodlejump.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/doodlejump/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "2048",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/2048.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/2048/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "tetris",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/tetris.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/tetris/index.html",
+    "genre": "tetris"
+  },
+  {
+    "name": "fancy pants adventure",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/fancypantsadventure.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/fancypantsadventure/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "happy wheels",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/happywheels.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/happywheels/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "papa's hotdoggeria",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papashotdoggeria.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papashotdoggeria/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "paperio2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/paperio2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/paperio2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "super hot",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/superhot.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/superhot/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "the binding of isaac",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/thebindingofisaac.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/thebindingofisaac/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "townscaper",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/townscaper.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/townscaper/index.html",
+    "genre": "simulator"
+  },
+  {
+    "name": "tunnel rush",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/tunnelrush.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/tunnelrush/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "theme hotel",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/themehotel.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/themehotel/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "escaping the prison",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/escapingtheprison.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/escapingtheprison/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "stealing the diamond",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/stealingthediamond.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/stealingthediamond/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "infiltrating the airship",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/infiltratingtheairship.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/infiltratingtheairship/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "fleeing the complex",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/fleeingthecomplex.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/fleeingthecomplex/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "the impossible quiz",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/theimpossiblequiz.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/theimpossiblequiz/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "solitaire",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/solitaire.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/solitaire/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "drift hunters",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/drifthunters.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/drifthunters/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "vex 6",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/vex6.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/vex6/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "among us fangame",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/amongus.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/amongus/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "edge surf",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/surf.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/surf/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "motox3m",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/motox3m.jpeg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/motox3m/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "fnaf 1",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/fnaf.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/fnaf/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "fnaf 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/fnaf2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/fnaf-2/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "fnaf 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/fnaf3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/fnaf-3/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "fnaf 4",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/fnaf4.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/fnaf-4/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "riddle school",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/riddleschool.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/riddleschool/riddleschool1/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "riddle school 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/riddleschool2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/riddleschool/riddleschool2/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "riddle school 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/riddleschool3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/riddleschool/riddleschool3/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "riddle school 4",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/riddleschool4.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/riddleschool/riddleschool4/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "riddle school 5",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/riddleschool5.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/riddleschool/riddleschool5/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "riddle transfer",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/riddletransfer.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/riddleschool/riddletransfer/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "riddle transfer 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/riddletransfer2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/riddleschool/riddletransfer2/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "drift boss",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/driftboss.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/driftboss/index.html",
+    "genre": "mobile"
+  },
+  {
+    "name": "friday night funkin",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/fnf.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/fnf/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "pacman",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pacman.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pacman/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "papa's pancakeria",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papaspancakeria.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papaspancakeria/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "rooftop snipers",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/rooftopsnipers.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/rooftop/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "baldi's basics",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/baldisbasics.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/baldisbasics/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "bob the robber 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/bobtherobber2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/bobtherobber2/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "minesweeper",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/minesweeper.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/minesweeper/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "pokemon emerald",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pokemonemerald.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pokemonemerald/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "pokemon fire red",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pokemonfirered.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pokemonfirered/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "super mario bros",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supermariobros.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supermariobros/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "super mario kart",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supermariokart.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supermariokart/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "super mario world",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supermarioworld.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supermarioworld/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "there is no game",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/thereisnogame.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/thereisnogame/index.html",
+    "genre": "mobile"
+  },
+  {
+    "name": "world's hardest game",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/worldshardestgame.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/worldshardestgame/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "castlevania",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/castlevania.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/castlevania/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "donkey kong",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/donkeykong.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/donkeykong/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "dr mario",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/drmario.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/drmario/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "metroid",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/metroid.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/metroid/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "super mario bros 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supermariobros2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supermariobros2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "super mario bros 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supermariobros3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supermariobros3/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "the legend of zelda",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/thelegendofzelda.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/thelegendofzelda/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "warioware",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/warioware.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/warioware/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "yoshi's island",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/yoshisisland.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/yoshisisland/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "donkey kong land",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/donkeykongland.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/donkeykongland/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "kirby's dream land",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/kirbysdreamland.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/kirbysdreamland/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "super mario land",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supermarioland.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supermarioland/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "doge miner",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/dogeminer.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/dogeminer/index.html",
+    "genre": "simulator"
+  },
+  {
+    "name": "tanuki sunset",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/tanukisunset.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/tanukisunset/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "aquapark slides",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/aquaparkslides.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/aquaparkslides/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "color switch",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/colorswitch.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/colorswitch/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "papa's freezeria",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papasfreezeria.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papasfreezeria/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "btd",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/btd.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/btd/btd/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "btd 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/btd2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/btd/btd2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "btd 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/btd3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/btd/btd3/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "btd 4",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/btd4.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/btd/btd4/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "bomberman",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/bomberman.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/bomberman/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "fire emblem",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/fireemblem.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/fireemblem/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "ice climber",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/iceclimber.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/iceclimber/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "mario kart super circuit",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mariokartsupercircuit.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/mariokartsupercircuit/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "pokemon leaf green",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pokemonleafgreen.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pokemonleafgreen/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "pokemon ruby",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pokemonruby.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pokemonruby/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "pokemon sapphire",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pokemonsapphire.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pokemonsapphire/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "superstar saga",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/superstarsaga.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/superstarsaga/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "adofai",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/adofai.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/adofai/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "super smash flash",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supersmashflash.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supersmashflash/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "super meat boy",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supermeatboy.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supermeatboy/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "stickman hook",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/stickmanhook.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/stickmanhook/index.html",
+    "genre": "mobile"
+  },
+  {
+    "name": "defend the tank",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/defendthetank.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/defendthetank/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "sort the court",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/sortthecourt.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/sortthecourt/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "this is the only level",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/thisistheonlylevel.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/thisistheonlylevel/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "run",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/run.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/run/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "run 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/run2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/run2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "battleships",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/battleships.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/battleships/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "breaking the bank",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/breakingthebank.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/breakingthebank/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "duck life",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/ducklife.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/ducklife/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "duck life 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/ducklife2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/ducklife2/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "duck life 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/ducklife3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/ducklife3/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "line rider",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/linerider.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/linerider/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "mario combat",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mariocombat.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/mariocombat/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "raft wars 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/raftwars2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/raftwars2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "space invaders",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/spaceinvaders.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/spaceinvaders/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "animal crossing",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/animalcrossingwildworld.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/animalcrossingwildworld/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "mario kart ds",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mariokartds.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/mariokartds/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "new super mario bros",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/newsupermariobros.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/newsupermariobros/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "nintendogs",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/nintendogs.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/nintendogs/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "super mario 64 ds",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/sm64ds.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/sm64ds/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "gun mayhem",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/gunmayhem.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/gunmayhem/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "learn to fly",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/learntofly.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/learntofly/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "rooftop snipers 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/rooftopsnipers2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/rooftop2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "fireboy and watergirl",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/fireboyandwatergirl.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/fireboywatergirl/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "chibi knight",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/chibiknight.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/chibiknight/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "cluster rush",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/clusterrush.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/clusterrush/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "doodle defender",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/doodledefender.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/doodledefender/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "learn to fly 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/learntofly2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/learntofly2/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "papa's scooperia",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papasscooperia.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papasscooperia/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "papa's sushiria",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papaswingeria.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papassushiria/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "papa's wingeria",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papassushiria.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papaswingeria/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "raft wars",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/raftwars.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/raftwars/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "unfair mario",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/unfairmario.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/unfairmario/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "boxing physics 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/boxingphysics2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/boxingphysics2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "ace attorney",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/aceattorney.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/aceattorney/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "metal gear solid",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/metalgearsolid.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/metalgearsolid/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "mother 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mother3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/mother3/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "pokemon diamond",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pokemondiamond.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pokemondiamond/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "pokemon platinum",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pokemonplatinum.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pokemonplatinum/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "pokemon soulsilver",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pokemonsoulsilver.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pokemonsoulsilver/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "advance wars",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/advancewars.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/advancewars/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "banjo pilot",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/banjopilot.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/banjopilot/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "super monkey ball jr",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supermonkeyballjr.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supermonkeyballjr/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "the impossible quiz 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/theimpossiblequiz2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/theimpossiblequiz2/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "papa's donuteria",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papasdonuteria.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papasdonuteria/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "fancy pants adventure 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/fancypantsadventure2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/fancypantsadventure2/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "tiny fishing",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/tinyfishing.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/tinyfishing/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "big red button",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/bigredbutton.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/bigredbutton/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "achievement unlocked",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/achievementunlocked.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/achievementunlocked/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "kirby mass attack",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/kirbymassattack.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/kirbymassattack/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "sonic advance",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/sonicadvance.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/sonicadvance/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "worms world party",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/wormsworldparty.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/wormsworldparty/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "bad ice cream",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/badicecream.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/badicecream/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "bad ice cream 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/badicecream2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/badicecream2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "bad ice cream 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/badicecream3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/badicecream3/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "adventure captialist",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/adventurecaptialist.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/adventurecapitalist/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "monkey mart",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/monkeymart.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/monkeymart/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "doom 64",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/doom64.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/doom64/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "banjo kazooie",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/banjokazooie.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/banjokazooie/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "donkey kong 64",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/donkeykong64.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/donkeykong64/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "f-zero x",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/fzerox.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/fzerox/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "kirby 64",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/kirby64.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/kirby64/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "mario kart 64",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mariokart64.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/mariokart64/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "mario party",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/marioparty.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/marioparty/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "mario party 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/marioparty2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/marioparty2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "ocarina of time",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/ocarinaoftime.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/ocarinaoftime/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "star fox 64",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/starfox64.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/starfox64/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "super smash bros",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supersmashbros.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supersmashbros/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "street fighter 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/streetfighter2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/streetfighter2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "getaway shootout",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/getawayshootout.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/getawayshootout/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "rabbit samurai",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/rabbitsamurai.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/rabbitsamurai/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "mario party ds",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mariopartyds.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/mariopartyds/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "professor layton",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/professorlayton.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/professorlayton/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "scribblenauts",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/scribblenauts.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/scribblenauts/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "advance wars 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/advancewars2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/advancewars2/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "harvest moon",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/harvestmoon.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/harvestmoon/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "mario tennis",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mariotennis.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/mariotennis/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "mega man zero",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/megamanzero.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/megamanzero/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "mystery dungeon",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pokemonmysterydungeon.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pokemonmysterydungeon/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "pokemon unbound",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pokemonunbound.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pokemonunbound/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "papa's cheeseria",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papascheeseria.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papascheeseria/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "papa's cupcakeria",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papascupcakeria.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papascupcakeria/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "papa's bakeria",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papasbakeria.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papasbakeria/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "papa's pastaria",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papaspastaria.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papaspastaria/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "gun mayhem 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/gunmayhem2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/gunmayhem2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "gun mayhem redux",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/gunmayhemredux.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/gunmayhemredux/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "achievement unlocked 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/achievementunlocked2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/achievementunlocked2/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "achievement unlocked 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/achievementunlocked3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/achievementunlocked3/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "factory balls",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/factoryballs.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/factoryballs/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "skywire",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/skywire.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/skywire/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "super mario flash",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supermarioflash.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supermarioflash/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "golden sun",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/goldensun.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/goldensun/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "metroid fusion",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/metroidfusion.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/metroidfusion/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "dbz: supersonic warriors",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/goldensun.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/dbzsupersonicwarriors/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "wario land 4",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/warioland4.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/warioland4/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "duck life 5",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/ducklife5.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/ducklife5/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "learn to fly 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/learntofly3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/learntofly3/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "bloxors",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/bloxors.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/bloxors/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "electric man 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/electricman2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/electricman2/index.html",
+    "genre": "aracde"
+  },
+  {
+    "name": "portal",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/portal.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/portal/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "portal 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/portal2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/portal2/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "skywire 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/skywire2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/skywire2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "duck life 6",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/ducklife6.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/ducklife6/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "boxing random",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/boxingrandom.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/boxingrandom/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "cell machine",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/cellmachine.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/cellmachine/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "stickman boost",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/stickmanboost.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/stickmanboost/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "vex 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/vex3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/vex3/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "vex 4",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/vex4.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/vex4/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "skibidi toilet 1v100",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/skibiditoilet1v100.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/skibidi1v100/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "golden eye 007",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/goldeneye007.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/goldeneye007/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "majora's mask",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/majorasmask.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/majorasmask/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "paper mario",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papermario.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papermario/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "mario golf",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mariogolf.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/mariogolf/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "pokemon stadium",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pokemonstadium.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pokemonstadium/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "excitebike 64",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/excitebike64.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/excitebike64/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "pokemon snap",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pokemonsnap.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pokemonsnap/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "mario party 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/marioparty3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/marioparty3/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "sonic advance 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/sonicadvance2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/sonicadvance2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "bowsers inside story",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/bowsersinsidestory.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/bowsersinsidestory/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "spirit tracks",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/spirittracks.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/spirittracks/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "the sims 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/thesims2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/thesims2/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "tetris ds",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/tetrisds.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/tetrisds/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "sonic rush",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/sonicrush.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/sonicrush/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "the sims 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/thesims3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/thesims3/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "super princess peach",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/superprincesspeach.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/superprincesspeach/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "lego batman",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/legobatman.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/legobatman/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "doom 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/doomii.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/doom2/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "duke nukem advance",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/dukenukemadvance.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/dukenukemadvance/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "mario party advance",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mariopartyadvance.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/mariopartyadvance/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "mario pinball land",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mariopinballland.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/mariopinballland/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "pacman world",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pacmanworld.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pacmanworld/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "rayman 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/rayman3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/rayman3/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "shrek 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/shrek2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/shrek2/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "simcity 2000",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/simcity2000.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/simcity/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "simpsons road rage",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/simpsonsroadrage.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/simpsonsroadrage/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "diddy kong racing",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/diddykongracing.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/diddykongracing/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "wave race 64",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/waveracing.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/waverace64/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "quest 64",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/quest64.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/quest64/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "gex 64",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/gex64.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/gex64/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "duke nukem 64",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/dukenukem64.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/dukenukem64/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "mortal kombat 4",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mortalkombat4.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/mortalkombat4/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "bad piggies",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/badpiggies.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/badpiggies/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "super mario flash 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supermarioflash2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supermarioflash2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "swords and sandals",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/swordsandsandals.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/swordsandsandals/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "swords and sandals 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/swordsandsandals2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/swordsandsandals2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "wordle",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/wordle.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/wordle/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "vex",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/vex.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/vex/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "vex 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/vex2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/vex2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "vex 5",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/vex5.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/vex5/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "vex 7",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/vex7.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/vex7/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "stack",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/stack.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/stack/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "skibidi toilet attack",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/skibiditoiletattack.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/skibiditoiletattack/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "motox3m pool",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/motox3mpool.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/motox3mpool/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "offline paradise",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/offlineparadise.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/offlineparadise/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "link to the past",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/linktothepast.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/linktothepast/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "donkey kong country",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/donkeykongcountry.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/donkeykongcountry/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "donkey kong country 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/donkeykongcountry2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/donkeykongcountry2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "super bomberman",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/superbomberman.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/superbomberman/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "mario paint",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mariopaint.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/mariopaint/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "mega man x",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/megamanx.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/megamanx/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "super mario rpg",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supermariorpg.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supermariorpg/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "super tennis",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supertennis.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supertennis/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "wario's woods",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/warioswoods.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/warioswoods/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "worlds hardest game 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/worldshardestgame2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/worldshardestgame2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "bubble tanks 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/bubbletanks2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/bubbletanks2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "choose your weapon",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/chooseyourweapon.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/chooseyourweapon/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "choose your weapon 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/chooseyourweapon2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/chooseyourweapon2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "choose your weapon 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/chooseyourweapon3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/chooseyourweapon3/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "connect 4",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/connect4.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/connect4/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "electric box",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/electricbox.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/electricbox/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "mc tower defence 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mctowerdefence2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/mctowerdefence2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "cars 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/cars2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/cars2/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "cooking mama",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/cookingmama.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/cookingmama/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "adventure time",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/adventuretimeheyiceking.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/adventuretime/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "garfield gets real",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/garfieldgetsreal.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/garfieldgetsreal/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "warioware touched",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/wariowaretouched.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/wariowaretouched/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "kirby power paintbrush",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/kirbypowerpaintbrush.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/kirbypowerpaintbrush/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "sonic and knuckles",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/sonicandknuckles.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/sonicandknuckles/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "altered beast",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/alteredbeast.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/alteredbeast/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "sonic spinball",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/sonicspinball.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/sonicspinball/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "sonic the hedgehog 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/sonicthehedgehog3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/sonicthehedgehog3/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "streets of rage",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/streetsofrage.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/streetsofrage/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "golden axe",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/goldenaxe.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/goldenaxe/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "kirby amazing mirror",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/kirbyamazingmirror.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/kirbyamazingmirror/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "champion island",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/championisland.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/championisland/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "super mario construct",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supermarioconstruct.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supermarioconstruct/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "clicker heroes",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/clickerheroes.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/clickerheroes/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "stair race 3d",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/stairrace3d.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/stairrace3d/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "slope 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/slope2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/slope2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "paper io 3d",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/paperio3d.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/paperio3d/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "motox3m spooky",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/motox3mspooky.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/motox3mspooky/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "motox3m winter",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/motox3mwinter.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/motox3mwinter/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "snake",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/snake.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/snake/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "papa's tacomia",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papastacomia.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papastacomia/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "ovo",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/ovo.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/ovo/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "knife hit",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/knifehit.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/knifehit/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "cubefield",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/cubefield.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/cubefield/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "burger and frights",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/burgerandfrights.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/burgerandfrights/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "chess",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/chess.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/chess/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "fnf mid fight masses",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/midfightmasses.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/fnfmidfight/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "thumb fighter",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/thumbfighter.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/thumbfighter/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "snow battle io",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/snowbattleio.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/snowbattleio/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "lazy jump 3d",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/lazyjump3d.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/lazyjump3d/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "go ball",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/goball.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/goball/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "flippy fish",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/flippyfish.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/flippyfish/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "shop empire",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/shopempire.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/shopempire/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "monster brawl",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/monsterbrawl.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/monsterbrawl/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "multitask",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/multitask.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/multitask/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "shift",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/shift.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/shift/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "shift 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/shift2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/shift2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "shift 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/shift3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/shift3/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "shift 4",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/shift4.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/shift4/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "monopoly",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/monopoly.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/monopoly/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "picross ds",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/picrossds.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/picrossds/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "warioware diy",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/wariowarediy.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/wariowarediy/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "pizza tower",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pizzatower.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pizzatower/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "territorial io",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/territorialio.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/territorialio/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "1v1lol",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/1v1lol.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/1v1lol/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "ballistic chickens",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/ballisticchickens.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/ballisticchickens/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "basketbros io",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/basketbrosio.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/basketbrosio/index.html",
+    "genre": "mobile"
+  },
+  {
+    "name": "minecraft classic",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mcclassic.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/mcclassic/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "death run 3d",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/deathrun3d.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/deathrun3d/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "soccer random",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/soccerrandom.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/soccerrandom/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "sprinter",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/sprinter.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/sprinter/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "tron",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/tron.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/tron/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "1 on 1 soccer",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/1on1soccer.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/1on1soccer/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "bad time simulator",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/badtimesimulator.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/badtimesimulator/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "amazing rope police",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/amazingropepolice.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/amazingropepolice/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "celeste",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/celeste.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/celeste/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "just fall lol",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/justfalllol.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/justfalllol/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "ngon",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/ngon.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/ngon/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "rocket soccer",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/rocketsoccer.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/rocketsoccer/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "stickman climb",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/stickmanclimb.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/stickmanclimb/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "osu!mania",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/osumania.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/osumania/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "helix jump",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/helixjump.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/helixjump/index.html",
+    "genre": "mobile"
+  },
+  {
+    "name": "dadish",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/dadish.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/dadish/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "dadish 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/dadish2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/dadish2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "dadish 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/dadish3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/dadish3/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "snow rider 3d",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/snowrider3d.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/snowrider3d/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "tube jumpers",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/tubejumpers.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/tubejumpers/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "yohoho io",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/yohoho.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/yohoho/index.html",
+    "genre": "mobile"
+  },
+  {
+    "name": "10 minutes till dawn",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/10minutestilldawn.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/10minutestilldawn/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "volley random",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/volleyrandom.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/volleyrandom/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "waterworks",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/waterworks.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/waterworks/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "geometry rash",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/geometryrash.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/geometryrash/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "hole io",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/holeio.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/holeio/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "sandtrix",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/sandtrix.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/sandtrix/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "shapeshipper",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/shapeshipper.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/shapeshipper/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "slope ball",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/slopeball.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/slopeball/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "stickman golf",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/stickmangolf.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/stickmangolf/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "totally accurate battle sim",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/totallyaccuratebattlesim.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/tabs/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "watermelon game",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/watermelongame.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/watermelongame/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "wall smash",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/wallsmash.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/wallsmash/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "crimson fantasia",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/crimsonfantasia.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/crimsonfantasia/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "cut the rope",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/cuttherope.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/cuttherope/index.html",
+    "genre": "mobile"
+  },
+  {
+    "name": "funny mad racing",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/funnymadracing.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/funnymadracing/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "geometry dash lite",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/geometrydashlite.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/gdlite/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "grand theft grotto",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/grandtheftgrotto.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/grandtheftgrotto/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "drift mania",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/driftmania.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/driftmania/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "rise higher",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/risehigher.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/risehigher/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "burrito bison",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/burritobison.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/burritobison/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "pool",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pool.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pool/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "redball",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/redball.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/redball1/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "redball 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/redball3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/redball3/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "redball 4",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/redball4.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/redball4/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "redball 4 vol 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/redball4vol2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/redballv2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "redball 4 vol 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/redball4vol3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/redballv3/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "rough dino",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/roughdino.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/roughdino/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "time shooter",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/timeshooter.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/timeshooter1/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "time shooter 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/timeshooter2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/timeshooter2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "time shooter 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/timeshooter3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/timeshooter3/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "battletoads",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/battletoads.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/battletoads/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "castlevania",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/castlevania.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/castlevaniaiii/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "contra",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/contra.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/contra/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "duck tales",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/ducktales.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/ducktales/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "kid icarus",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/kidicarus.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/kidicarus/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "mega man 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/megaman2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/megaman2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "ninja gaiden",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/ninjagaiden.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/ninjagaiden/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "punch out",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mikestysonspunchout.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/punchout/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "chrono trigger",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/chronotrigger.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/chronotrigger/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "contra iii",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/contraiii.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/contraiii/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "donkey kong country 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/donkeykongcountry3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/donkeykongcountry3/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "earthbound",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/earthbound.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/earthbound/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "final fantasy iv",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/finalfantasyiv.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/finalfantasyvi/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "f-zero",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/fzero.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/fzero/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "super metroid",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supermetroid.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supermetroid/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "banjo tooie",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/banjotooie.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/banjotooie/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "harvest moon 64",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/harvestmoon64.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/harvestmoon64/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "jet force gemini",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/jetforcegemini.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/jetforcegemini/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "mystical ninja",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mysticalninja.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/mysticalninja/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "turok dinosaur hunter",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/turokdinosaurhunter.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/turokdinosaurhunter/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "yoshi's story",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/yoshisstory.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/yoshisstory/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "kirby's dreamland 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/kirbysdreamland2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/kirbysdreamland2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "link's awakening dx",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/linksawakeningdx.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/linksawakeningdx/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "metroid ii",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/metroidii.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/metroidii/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "super mario land 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supermarioland2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supermarioland2/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "wario land ii",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/wariolandii.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/wariolandii/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "castlevania aria of sorrow",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/castlevaniaariaofsorrow.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/castlevaniaariaofsorrow/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "final fantasy tactics adv",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/finalfantasytacticsadventure.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/finalfantasytacticsadvance/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "drill dozer",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/drilldozer.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/drilldozer/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "advance wars days of ruin",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/advancewarsdaysofruin.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/advancewarsdayofruin/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "castlevania dawn of sorrow",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/castlevaniadawnofsorrow.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/castlevaniadawnofsorrow/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "order of ecclesia",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/castlevaniaorderofecclesia.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/castlevaniaorderofecclesia/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "partners in time",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/marioandluigipartnersintime.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/marioandluigipartnersintime/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "comix zone",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/comixzone.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/comixzone/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "ecco the dolphin",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/eccothedolphin.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/eccothedolphin/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "gunstar heroes",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/gunstarheroes.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/gunstarheroes/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "phantasy star iv",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/phantasystariv.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/phantasystariv/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "ranger x",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/rangerx.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/rangerx/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "ristar",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/ristar.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/ristar/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "shining force",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/shiningforce.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/shiningforce/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "shinobi iii",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/shinobiiii.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/shinobiiii/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "sonic the hedgehog",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/sonicthehedgehog.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/sonicthehedgehog/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "sonic the hedgehog 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/sonicthehedgehog2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/sonicthehedgehog2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "streets of rage 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/streetsofrage2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/streetsofrage2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "vectorman",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/vectorman.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/vectorman/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "vectorman 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/vectorman2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/vectorman2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "illusion of gaia",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/illusionofgaia.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/illusionofgaia/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "pokemon yellow",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pokemonyellow.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pokemonyellow/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "abuda the alien",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/abudathealien.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/abudathealien/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "battle beavers",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/battlebeavers.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/battlebeavers/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "control craft 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/controlcraft2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/controlcraft2/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "age of war",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/ageofwar.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/ageofwar/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "age of war 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/ageofwar2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/ageofwar2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "amorphous",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/amorphous.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/amorphous/index.html",
+    "genre": "amorphous"
+  },
+  {
+    "name": "bubble spinner",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/bubblespinner.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/bubblespinner/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "crush the castle",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/crushthecastle.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/crushthecastle/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "crush the castle 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/crushthecastle2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/crushthecastle2/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "epic battle fantasy",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/epicbattlefantasy.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/epicbattlefantasy/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "epic battle fantasy 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/epicbattlefantasy2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/epicbattlefantasy2/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "epic battle fantasy 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/epicbattlefantasy3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/epicbattlefantasy3/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "fancy pants adventure 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/fancypantsadventure3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/fancypantsadventure3/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "flood runner 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/floodrunner2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/floodrunner2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "flood runner 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/floodrunner3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/floodrunner3/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "dragon boy 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/dragonboy2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/dragonboy2/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "neon rider",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/neonrider.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/neonrider/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "pandemic 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pandemic2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pandemic2/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "stick war",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/stickwar.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/stickwar/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "stick war 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/stickwar2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/stickwar2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "ultimate flash sonic",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/ultimateflashsonic.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/ultimateflashsonic/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "zombocalypse",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/zombocalpyse.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/zombocalypse/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "zombotron",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/zombotron.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/zombotron/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "zombotron 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/zombotron2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/zombotron2/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "backrooms 2d",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/backrooms2d.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/backrooms2d/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "basket random",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/basketrandom.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/basketrandom/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "csgo clicker",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/csgoclicker.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/csgoclicker/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "doom",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/doom.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/doom/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "funny shooter 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/funnyshooter2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/funnyshooter2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "gun fest",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/gunfest.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/gunfest/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "infinite craft",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/infinitecraft.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/infinitecraft/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "lows adventures 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/lowsadventures2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/lowsadventures2/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "pako highway",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pakohighway.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pakohighway/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "recoil",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/recoil.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/recoil/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "run 3 plus",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/run3plus.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/run3plus/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "slope city",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/slopecity.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/slopecity/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "state io",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/stateio.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/stateio/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "sudoku",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/sudoku.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/sudoku/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "superhero drop",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/superherodrop.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/superherodrop/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "balloon run",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/balloonrun.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/balloonrun/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "crazy tunnel 3d",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/crazytunnel3d.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/crazytunnel3d/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "minecraft [v1.8]",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mc1.8.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/eagler1.8/index.html",
+    "genre": "minecraft"
+  },
+  {
+    "name": "geometry dash sky",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/geometrydashsky.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/geometrydashsky/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "wubzzys adventure",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/wubzzysamazingadventure.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/wubzzysamazingadventure/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "gold digger frvr",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/golddiggerfrvr.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/golddiggerfrvr/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "hexgl",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/hexgl.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/hexgl/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "house of hazards",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/houseofhazards.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/houseofhazards/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "pick crafter",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/pickcrafter.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/pickcrafter/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "precision client",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/precisionclient.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/precisionclient/index.html",
+    "genre": "minecraft"
+  },
+  {
+    "name": "subway runner",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/subwayrunner.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/subwayrunner/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "xx142-b2.exe",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/xx142b2.exe.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/xx142-b2.exe/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "canopy",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/canopy.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/canopy/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "cave chaos",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/cavechaos.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/cavechaos/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "change type",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/changetype.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/changetype/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "cheese dreams",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/cheesedreams.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/cheesedreams/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "chisel",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/chisel.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/chisel/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "chisel 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/chisel2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/chisel2/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "ditto",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/ditto.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/ditto/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "feed me",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/feedme.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/feedme/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "final ninja",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/finalninja.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/finalninja/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "frost bite",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/frostbite.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/frostbite/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "frost bite 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/frostbite2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/frostbite2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "icebreaker",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/icebreaker.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/icebreaker/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "mutiny",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/mutiny.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/mutiny/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "nitrome must die",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/nitromemustdie.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/nitromemustdie/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "oodlegobs",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/oodlegobs.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/oodlegobs/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "super treadmill",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/supertreadmill.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/supertreadmill/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "swindler",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/swindler.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/swindler/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "test subject arena",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/testsubjectarena.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/testsubjectarena/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "test subject complete",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/testsubjectcomplete.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/testsubjectcomplete/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "twin shot",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/twinshot.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/twinshot/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "twin shot 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/twinshot2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/twinshot2/index.html",
+    "genre": "adventure"
+  },
+  {
+    "name": "three line",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/threeline.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/3line/index.html",
+    "genre": "puzzle"
+  },
+  {
+    "name": "bike champ",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/bikechamp.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/bikechamp/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "bike champ 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/bikechamp2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/bikechamp2/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "corporation inc",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/corporationinc.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/corporationinc/index.html",
+    "genre": "arcade"
+  },
+  {
+    "name": "shop empire fable",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/shopempirefable.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/shopempirefable/index.html",
+    "genre": "simulation"
+  },
+  {
+    "name": "cactus mccoy",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/cactusmccoy.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/cactusmccoy/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "cactus mccoy 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/cactusmccoy2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/cactusmccoy2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "papa louie",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papalouie.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papalouie/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "papa louie 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papalouie2.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papalouie2/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "papa louie 3",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/papalouie3.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/papalouie3/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "steak and jake",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/steakandjake.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/steakandjake/index.html",
+    "genre": "platformer"
+  },
+  {
+    "name": "steak and jake midnight",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/steakandjakemidnightmarch.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/steakandjakemidnightmarch/index.html",
+    "genre": "platformer"
+  }
+]
