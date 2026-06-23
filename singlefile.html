@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mathematics - Classroom</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+<style>
+
+*{
+  box-sizing:border-box;
+  font-family:"Fredoka",sans-serif;
+}
+
+html,body{
+margin:0;
+height:100%;
+overflow:hidden;
+background: radial-gradient(circle at top,#2f6b4d 0%,#173426 35%,#0f1a14 100%);
+color:#f3fff8;
+}
+
+#particles-js{
+position:fixed;
+inset:0;
+z-index:0;
+}
+
+.app{
+position:relative;
+z-index:1;
+width:min(1200px,95%);
+margin:auto;
+padding:35px;
+height:100vh;
+overflow:auto;
+}
+
+.header{
+display:flex;
+justify-content:space-between;
+align-items:center;
+margin-bottom:20px;
+}
+
+.title{
+font-size:2.3rem;
+font-weight:700;
+text-shadow:0 0 18px rgba(93,255,154,.35);
+
+}
+
+select{
+font-family:"Fredoka",sans-serif;
+font-weight:600;
+background:rgba(28,43,34,.88);
+color:#f3fff8;
+border:2px solid #3c7a5a;
+padding:10px 14px;
+border-radius:12px;
+outline:none;
+cursor:pointer;
+}
+
+.games{
+display:grid;
+grid-template-columns:repeat(auto-fill,minmax(240px,1fr));
+gap:18px;
+}
+
+.game{
+background:rgba(28,43,34,.88);
+border:2px solid #3c7a5a;
+border-radius:18px;
+overflow:hidden;
+cursor:pointer;
+transition:.2s;
+}
+
+.game:hover{
+transform:translateY(-4px) scale(1.02);
+border-color:#5dff9a;
+box-shadow:0 0 25px rgba(93,255,154,.25);
+}
+
+.game img{
+width:100%;
+height:140px;
+object-fit:cover;
+background:#0b120e;
+display:block;
+}
+
+.game-body{
+padding:12px;
+}
+
+.game-title{
+font-size:1.2rem;
+font-weight:700;
+}
+
+.game-desc{
+opacity:.8;
+font-size:.9rem;
+margin-top:6px;
+}
+
+.status{
+position:fixed;
+bottom:20px;
+left:50%;
+transform:translateX(-50%);
+background:rgba(19,38,28,.95);
+border:2px solid #3c7a5a;
+padding:10px 16px;
+border-radius:999px;
+display:none;
+z-index:10;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div id="particles-js"></div>
+
+<div class="app">
+
+  <div class="header">
+<div class="title">  <img src="https://gcore.jsdelivr.net/gh/linuxfandudeguy/greengrapecentral@main/assets/images/Green_Grapes_29.webp"
+       style="height:1em; width:auto;"> グリーン・グレープ・セントラル</div>
+    <select id="sourceSelect">
+      <option value="gn">GN-MATH</option>
+      <option value="ugs">UGS</option>
+      <option value="sfools">SFOOLS</option>
+      <option value="sea">SEA-BEAN</option>
+    </select>
+
+  </div>
+
+  <div class="games" id="games"></div>
+
+</div>
+
+<div class="status" id="status"></div>
+
+<script>
+
+/* =========================
+   PARTICLES
+========================= */
+
+particlesJS("particles-js",{
+
+  particles:{
+
+    number:{
+      value:80,
+      density:{enable:true,value_area:800}
+    },
+
+    color:{
+      value:[
+        "#5dff9a",
+        "#a6ffd0",
+        "#3cff7a",
+        "#7dffb2"
+      ]
+    },
+
+    shape:{type:"circle"},
+
+    opacity:{
+      value:0.65,
+      random:true,
+      anim:{
+        enable:true,
+        speed:0.5,
+        opacity_min:0.25,
+        sync:false
+      }
+    },
+
+    size:{
+      value:8,
+      random:true,
+      anim:{
+        enable:true,
+        speed:2,
+        size_min:2,
+        sync:false
+      }
+    },
+
+    line_linked:{enable:false},
+
+    move:{
+      enable:true,
+      speed:2,
+      direction:"bottom",
+      random:true,
+      straight:false,
+      out_mode:"out"
+    }
+
+  },
+
+  interactivity:{
+
+    events:{
+
+      onhover:{enable:true,mode:"bubble"},
+      onclick:{enable:true,mode:"push"},
+      resize:true
+
+    },
+
+    modes:{
+
+      bubble:{
+        distance:220,
+        size:24,
+        duration:2,
+        opacity:1,
+        speed:3
+      },
+
+      push:{particles_nb:6}
+
+    }
+
+  },
+
+  retina_detect:true
+
+});
+
+</script>
+<script src="https://cdn.jsdelivr.net/gh/linuxfandudeguy/greengrapecentral/assets/js/games.js"></script>
+
+</body>
+</html>
