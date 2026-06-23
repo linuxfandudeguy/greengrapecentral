@@ -1,3 +1,4 @@
+
 /* =========================
    SOURCES
 ========================= */
@@ -19,6 +20,15 @@ const SEA_HTML =
 
 const SEA_COVER =
 "https://cdn.jsdelivr.net/gh/sea-bean-unblocked/Singlemile@main/Icon/";
+
+const UGS_SOURCE =
+"https://gcore.jsdelivr.net/gh/tharun9772/ugs-2/";
+
+const UGS_HTML =
+"https://gcore.jsdelivr.net/gh/tharun9772/ugs-2/";
+
+const UGS_COVER =
+"https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png";
 
 /* =========================
    STATE
@@ -47,6 +57,7 @@ function hideStatus(){
    HELPERS
 ========================= */
 
+/* GN */
 function resolveGN(g){
   return {
     name: g.name,
@@ -59,15 +70,31 @@ function resolveGN(g){
   };
 }
 
+/* SEA */
 function resolveSEA(g){
   return {
     name: g.name,
     desc: g.author ? `by ${g.author}` : "",
-    cover: (g.cover || "")
-      .replace("{COVER_URL}", SEA_COVER),
+    cover: (g.cover || "").replace("{COVER_URL}", SEA_COVER),
     url: (g.url || "")
       .replace("{HTML_URL}", SEA_HTML)
       .replace("{COVER_URL}", SEA_COVER)
+  };
+}
+
+/* UGS - directory based */
+function resolveUGS(h){
+
+  let file = h.split("/").pop() || h;
+
+  file = file.replace(".html", "");
+  file = file.replace(/^cl/i, "");
+
+  return {
+    name: file,
+    desc: "",
+    cover: UGS_COVER,
+    url: UGS_HTML + file + ".html"
   };
 }
 
@@ -85,23 +112,37 @@ async function load(){
 
     const res = await fetch(GN_SOURCE);
     const json = await res.json();
-
     data = json.map(resolveGN);
 
-  } else {
+  }
+
+  else if(currentSource === "sea"){
 
     const res = await fetch(SEA_SOURCE);
     const json = await res.json();
-
     data = json.map(resolveSEA);
+
+  }
+
+  else if(currentSource === "ugs"){
+
+    const res = await fetch(UGS_SOURCE);
+    const html = await res.text();
+
+    const doc = new DOMParser()
+      .parseFromString(html, "text/html");
+
+    const links = [...doc.querySelectorAll("a")]
+      .map(a => a.getAttribute("href"))
+      .filter(h => h && h.includes(".html") && !h.includes("index"));
+
+    data = links.map(resolveUGS);
   }
 
   games = data;
 
   render();
-
   hideStatus();
-
   preload();
 }
 
